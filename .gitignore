@@ -1,0 +1,12 @@
+*
+!/.gitignore
+!/public/
+!/public/**
+!/.github/
+!/.github/**
+!CNAME
+.env
+.env.local
+*.key
+*.pem
+config.json
